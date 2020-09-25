@@ -17,7 +17,7 @@
 	%>
 	
 	<h1>
-		Olá, <%= usuario.getUsuario() %>, quais as tarefas pra hoje? 
+		Quais as tarefas pra hoje? 
 	</h1>
 
 	<h2> Nova tarefa </h2>
