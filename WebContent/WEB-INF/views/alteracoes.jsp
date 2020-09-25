@@ -5,7 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <%@ page import="java.util.*, br.edu.insper.model.*, br.edu.insper.* " %>
-<title>Insert title here</title>
+<title>Alteracoes</title>
 </head>
 <body>
 	<% 

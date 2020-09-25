@@ -19,6 +19,7 @@
 	<h1>
 		Olá, <%= usuario.getUsuario() %>, quais as tarefas pra hoje? 
 	</h1>
+
 	<h2> Nova tarefa </h2>
 	<form action='CriaTask' method='post'>
 		to-do: <input type='text' name='todo'>
